@@ -85,6 +85,6 @@ def evaluate(respth='./res/test_res', dspth='./data', cp='model_final_diss.pth')
 
 
 if __name__ == "__main__":
-    evaluate(dspth='/content/StyleAnimeCopy/results/portrait2anime/img', cp='79999_iter.pth')
+    evaluate(dspth='../StyleAnimeCopy/results/portrait2anime/img', cp='79999_iter.pth')
 
 
